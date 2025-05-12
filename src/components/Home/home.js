@@ -33,7 +33,7 @@ const Home = () => {
       {<About />}
       {<FAQ />}
       {/* {<Why />} */}
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26814.22483042033!2d-96.71832762568366!3d32.85112640000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864ea16200157ee5%3A0xbe4071a38bff7235!2sTrue%20Kings%20Auto%20Body!5e0!3m2!1sen!2sus!4v1746199416812!5m2!1sen!2sus" 
+      <iframe title='map' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26814.22483042033!2d-96.71832762568366!3d32.85112640000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864ea16200157ee5%3A0xbe4071a38bff7235!2sTrue%20Kings%20Auto%20Body!5e0!3m2!1sen!2sus!4v1746199416812!5m2!1sen!2sus" 
         width="100%" 
         height="650" 
         allowFullScreen="" 
