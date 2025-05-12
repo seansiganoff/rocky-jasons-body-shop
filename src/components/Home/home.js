@@ -23,7 +23,7 @@ const Home = () => {
     
     <div className='header'>
       <div className='header-overlay'>
-        <img className="company-logo" src={require('../../images/tklogo-2.png')} alt='Company Logo' />
+        <img className="company-logo" src={require('../../images/rockys-bodyshop-2.jpg')} alt='Company Logo' />
         <div className="locations"><b className='theme-color'>ADDRESS:</b> 11504 Garland Rd #180, Dallas, TX, 75218.</div>
         <br />
         <div>

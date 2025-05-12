@@ -45,7 +45,7 @@ const Nav = () => {
           <img className='nav-logo' src={require('../../images/tklogo-2.png')} alt='Company Logo' />
         </div> */}
         <div className='nav-number'>
-             <p style={{ color: 'white'}}>CALL <br />214-430-4143</p>
+             <p style={{ color: 'white'}}>CALL <br />214-556-8482</p>
         </div>
         
         <div className='sandwich-menu-container' onClick={() => isOpen()}>

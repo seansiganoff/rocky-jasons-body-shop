@@ -10,12 +10,12 @@ const Footer = () => {
                     <h3 className='theme-color'>CONTACT US</h3>
                     <div className="contact-container">
                         <div className="mobile-footer">
-                            <a href="sms:214-430-4143"><img className="my-icons" src={require("../../images/text-icon.png")} alt='SMS message icon'/></a>
-                            <a href="tel:214-430-4143"><img className="my-icons" src={require("../../images/phone-icon.png")} alt='Phone icon'/></a>
+                            <a href="sms:214-556-8482"><img className="my-icons" src={require("../../images/text-icon.png")} alt='SMS message icon'/></a>
+                            <a href="tel:214-556-8482"><img className="my-icons" src={require("../../images/phone-icon.png")} alt='Phone icon'/></a>
                             {/* <a href="mailto:mobiledentandscratchrepair@yahoo.com"><img className="my-icons" src={require("../../images/email-icon.webp")} alt='Email icon'/></a> */}
                         </div>
                         <div className="desktop-footer">
-                        <p>CALL OR TEXT:  <b>214-430-4143</b></p>
+                        <p>CALL OR TEXT:  <b>214-556-8482</b></p>
                         </div>
                     </div>
                 </div>
